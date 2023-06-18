@@ -1,7 +1,7 @@
 # Django_automatic_start
 Django
 ## Run in django project folder
-* Full instalation clear django project
+* Full installation clear django project
 * Installing and activating venv
 * Installing all base libraries
-* Wroting base things in django filles
+* Writing based things in django filles
